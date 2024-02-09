@@ -1,0 +1,38 @@
+{
+    "id": "316063",
+    "ident": "ES-0035",
+    "type": "small_airport",
+    "name": "Aeroclub Mar Menor",
+    "latitude_deg": "37.845278",
+    "longitude_deg": "-0.881111",
+    "elevation_ft": "289",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-MC",
+    "municipality": "San Javier",
+    "scheduled_service": "no",
+    "gps_code": "LELG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Los Garranchos",
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303764",
+        "code": "ES-MC",
+        "local_code": "MC",
+        "name": "Murcia (region)",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Region_of_Murcia",
+        "keywords": "Airports in Murcia"
+    }
+}

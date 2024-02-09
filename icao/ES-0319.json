@@ -1,0 +1,38 @@
+{
+    "id": "429756",
+    "ident": "ES-0319",
+    "type": "heliport",
+    "name": "Cella Emergency Heliport",
+    "latitude_deg": "40.45859",
+    "longitude_deg": "-1.28498",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AR",
+    "municipality": "Cella",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303730",
+        "code": "ES-AR",
+        "local_code": "AR",
+        "name": "Aragón",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aragon",
+        "keywords": "Airports in Aragón"
+    }
+}

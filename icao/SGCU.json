@@ -1,0 +1,62 @@
+{
+    "id": "318322",
+    "ident": "SGCU",
+    "type": "small_airport",
+    "name": "Aeródromo de Curuguaty",
+    "latitude_deg": "-24.497675",
+    "longitude_deg": "-55.686307",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-14",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SGCU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "509339",
+            "airport_ref": "318322",
+            "airport_ident": "SGCU",
+            "length_ft": "",
+            "width_ft": "",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302799",
+        "code": "PY",
+        "name": "Paraguay",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
+        "keywords": "Aeropuertos de Paraguay"
+    },
+    "region": {
+        "id": "305194",
+        "code": "PY-14",
+        "local_code": "14",
+        "name": "Canindeyú Department",
+        "continent": "SA",
+        "iso_country": "PY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canindey%C3%BA_Department",
+        "keywords": "Airports in Canindeyú Department"
+    }
+}

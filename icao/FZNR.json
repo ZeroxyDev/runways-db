@@ -1,0 +1,38 @@
+{
+    "id": "31422",
+    "ident": "FZNR",
+    "type": "small_airport",
+    "name": "Rwindi Airport",
+    "latitude_deg": "-0.796652",
+    "longitude_deg": "29.28966",
+    "elevation_ft": "3412",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-NK",
+    "municipality": "Rwindi",
+    "scheduled_service": "no",
+    "gps_code": "FZNR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rwindi_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302561",
+        "code": "CD",
+        "name": "Democratic Republic of the Congo",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+        "keywords": "DRC"
+    },
+    "region": {
+        "id": "303318",
+        "code": "CD-NK",
+        "local_code": "NK",
+        "name": "Nord-Kivu Province",
+        "continent": "AF",
+        "iso_country": "CD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nord-Kivu_Province",
+        "keywords": "Airports in Nord-Kivu Province"
+    }
+}

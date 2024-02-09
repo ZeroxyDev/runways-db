@@ -1,0 +1,38 @@
+{
+    "id": "31360",
+    "ident": "FZDU",
+    "type": "small_airport",
+    "name": "Kimpangu Airport",
+    "latitude_deg": "-5.833000183105469",
+    "longitude_deg": "15",
+    "elevation_ft": "2133",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KO",
+    "municipality": "Kimpangu",
+    "scheduled_service": "no",
+    "gps_code": "FZDU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302561",
+        "code": "CD",
+        "name": "Democratic Republic of the Congo",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+        "keywords": "DRC"
+    },
+    "region": {
+        "id": "303309",
+        "code": "CD-KO",
+        "local_code": "KO",
+        "name": "Kongo-Central Province",
+        "continent": "AF",
+        "iso_country": "CD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kongo_Central",
+        "keywords": "Airports in Kongo Central Province"
+    }
+}

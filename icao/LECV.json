@@ -1,0 +1,62 @@
+{
+    "id": "326765",
+    "ident": "LECV",
+    "type": "heliport",
+    "name": "Base Aérea de Colmenar Viejo",
+    "latitude_deg": "40.697296",
+    "longitude_deg": "-3.763255",
+    "elevation_ft": "3264",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-MD",
+    "municipality": "Colmenar Viejo",
+    "scheduled_service": "no",
+    "gps_code": "LECV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "FAMET",
+    "runways": [
+        {
+            "id": "514858",
+            "airport_ref": "326765",
+            "airport_ident": "LECV",
+            "length_ft": "1361",
+            "width_ft": "82",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "40.695724",
+            "le_longitude_deg": "-3.764683",
+            "le_elevation_ft": "3262",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "40.698803",
+            "he_longitude_deg": "-3.761903",
+            "he_elevation_ft": "3262",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303761",
+        "code": "ES-MD",
+        "local_code": "MD",
+        "name": "Madrid (community)",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Community_of_Madrid",
+        "keywords": "Airports in Madrid"
+    }
+}

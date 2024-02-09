@@ -1,0 +1,62 @@
+{
+    "id": "35080",
+    "ident": "RU-9942",
+    "type": "medium_airport",
+    "name": "Shaykovka Air Base",
+    "latitude_deg": "54.2267",
+    "longitude_deg": "34.3717",
+    "elevation_ft": "666",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KLU",
+    "municipality": "Kirov",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "XUBJ",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shaykovka",
+    "keywords": "Шайковка, ЬУБЙ",
+    "runways": [
+        {
+            "id": "506860",
+            "airport_ref": "35080",
+            "airport_ident": "RU-9942",
+            "length_ft": "9842",
+            "width_ft": "249",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305293",
+        "code": "RU-KLU",
+        "local_code": "KLU",
+        "name": "Kaluga Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kaluga_Oblast",
+        "keywords": "Airports in Kaluga Oblast"
+    }
+}

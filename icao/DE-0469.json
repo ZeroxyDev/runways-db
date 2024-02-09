@@ -1,0 +1,38 @@
+{
+    "id": "353760",
+    "ident": "DE-0469",
+    "type": "heliport",
+    "name": "Murnau Accident Hospital Heliport",
+    "latitude_deg": "47.67214",
+    "longitude_deg": "11.215452",
+    "elevation_ft": "2227",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Murnau am Staffelsee",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "BGU, Berufsgenossenschaftliche, ADAC Luftrettungszentrum Christoph Murnau, BG Unfallklinik Murnau Heliport",
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303550",
+        "code": "DE-BY",
+        "local_code": "BY",
+        "name": "Bavaria",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
+        "keywords": "Bayern"
+    }
+}

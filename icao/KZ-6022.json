@@ -1,0 +1,38 @@
+{
+    "id": "34977",
+    "ident": "KZ-6022",
+    "type": "small_airport",
+    "name": "Dolon Southwest Air Base",
+    "latitude_deg": "50.25",
+    "longitude_deg": "79.083298",
+    "elevation_ft": "830",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-ABA",
+    "municipality": "Semey",
+    "scheduled_service": "no",
+    "gps_code": "UASF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dolon_Southwest",
+    "keywords": "Semipalatinsk",
+    "country": {
+        "id": "302645",
+        "code": "KZ",
+        "name": "Kazakhstan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kazakhstan",
+        "keywords": "Kazakh"
+    },
+    "region": {
+        "id": "430273",
+        "code": "KZ-ABA",
+        "local_code": "ABA",
+        "name": "Abai Region",
+        "continent": "AS",
+        "iso_country": "KZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Abai_Region",
+        "keywords": ""
+    }
+}

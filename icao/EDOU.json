@@ -1,0 +1,48 @@
+{
+    "id": "29083",
+    "ident": "EDOU",
+    "type": "small_airport",
+    "name": "Weimar-Umpferstedt Airfield",
+    "latitude_deg": "50.965085",
+    "longitude_deg": "11.399796",
+    "elevation_ft": "984",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-TH",
+    "municipality": "Umpferstedt",
+    "scheduled_service": "no",
+    "gps_code": "EDOU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Flugplatz Weimar-Umpferstedt",
+    "freqs": [
+        {
+            "id": "511831",
+            "airport_ref": "29083",
+            "airport_ident": "EDOU",
+            "type": "A/G",
+            "description": "",
+            "frequency_mhz": "134.535"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303562",
+        "code": "DE-TH",
+        "local_code": "TH",
+        "name": "Thuringia",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thuringia",
+        "keywords": "Thueringen, Freistaat Thüringen"
+    }
+}

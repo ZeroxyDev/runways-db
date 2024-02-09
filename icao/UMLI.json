@@ -1,0 +1,62 @@
+{
+    "id": "30140",
+    "ident": "UMLI",
+    "type": "small_airport",
+    "name": "Minsk Machulishchy Air Base",
+    "latitude_deg": "53.7733",
+    "longitude_deg": "27.58",
+    "elevation_ft": "699",
+    "continent": "EU",
+    "iso_country": "BY",
+    "iso_region": "BY-MI",
+    "municipality": "Minsk",
+    "scheduled_service": "no",
+    "gps_code": "UMLI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Machulishchy_(air_base)",
+    "keywords": "Minsk Machulishchi Airport, Аэрапорт Мачулішчы, Аэропорт Мачулищи",
+    "runways": [
+        {
+            "id": "506852",
+            "airport_ref": "30140",
+            "airport_ident": "UMLI",
+            "length_ft": "9836",
+            "width_ft": "164",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302678",
+        "code": "BY",
+        "name": "Belarus",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Belarus",
+        "keywords": "Belarussian, Беларусь"
+    },
+    "region": {
+        "id": "303284",
+        "code": "BY-MI",
+        "local_code": "MI",
+        "name": "Minsk Region",
+        "continent": "EU",
+        "iso_country": "BY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minsk_Region",
+        "keywords": "Minskaja voblasc', Мі́нская во́бласць"
+    }
+}

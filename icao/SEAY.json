@@ -1,0 +1,38 @@
+{
+    "id": "41104",
+    "ident": "SEAY",
+    "type": "small_airport",
+    "name": "Ayangue Airport",
+    "latitude_deg": "-1.977683",
+    "longitude_deg": "-80.745158",
+    "elevation_ft": "16",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-25",
+    "municipality": "Ayangue",
+    "scheduled_service": "no",
+    "gps_code": "SEAY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "San Pedro",
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "512322",
+        "code": "EC-25",
+        "local_code": "25",
+        "name": "Santa Elena Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Elena_Province",
+        "keywords": ""
+    }
+}

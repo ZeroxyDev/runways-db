@@ -1,0 +1,38 @@
+{
+    "id": "506631",
+    "ident": "HU-0065",
+    "type": "heliport",
+    "name": "Petz Aladár County Teaching Hospital Heliport",
+    "latitude_deg": "47.67088",
+    "longitude_deg": "17.64919",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-GY",
+    "municipality": "Győr",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302693",
+        "code": "HU",
+        "name": "Hungary",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
+        "keywords": "Repülőterek Magyarország"
+    },
+    "region": {
+        "id": "304067",
+        "code": "HU-GY",
+        "local_code": "GY",
+        "name": "Győr (city)",
+        "continent": "EU",
+        "iso_country": "HU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Győr",
+        "keywords": "Airports in Győr (city)"
+    }
+}

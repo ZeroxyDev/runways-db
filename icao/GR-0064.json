@@ -1,0 +1,38 @@
+{
+    "id": "429734",
+    "ident": "GR-0064",
+    "type": "closed",
+    "name": "Kilkis Airfield",
+    "latitude_deg": "40.979304",
+    "longitude_deg": "22.864308",
+    "elevation_ft": "863",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-B",
+    "municipality": "Kilkis",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "430179",
+        "code": "GR-B",
+        "local_code": "B",
+        "name": "Central Macedonia",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Macedonia",
+        "keywords": "Κεντρική Μακεδονία"
+    }
+}

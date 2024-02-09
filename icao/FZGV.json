@@ -1,0 +1,38 @@
+{
+    "id": "31671",
+    "ident": "FZGV",
+    "type": "small_airport",
+    "name": "Ikela Airport",
+    "latitude_deg": "-1.048109",
+    "longitude_deg": "23.372501",
+    "elevation_ft": "1283",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-TU",
+    "municipality": "Ikela",
+    "scheduled_service": "no",
+    "gps_code": "FZGV",
+    "iata_code": "IKL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ikela_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302561",
+        "code": "CD",
+        "name": "Democratic Republic of the Congo",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+        "keywords": "DRC"
+    },
+    "region": {
+        "id": "505653",
+        "code": "CD-TU",
+        "local_code": "TU",
+        "name": "Tshuapa Province",
+        "continent": "AF",
+        "iso_country": "CD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tshuapa",
+        "keywords": "Airports in Tshuapa Province"
+    }
+}

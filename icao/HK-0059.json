@@ -1,0 +1,38 @@
+{
+    "id": "339201",
+    "ident": "HK-0059",
+    "type": "heliport",
+    "name": "Island Resort Tower 8 Helipad",
+    "latitude_deg": "22.266647",
+    "longitude_deg": "114.251022",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "HK",
+    "iso_region": "HK-HK",
+    "municipality": "Eastern",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302631",
+        "code": "HK",
+        "name": "Hong Kong",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hong_Kong",
+        "keywords": "Airports in Hong Kong"
+    },
+    "region": {
+        "id": "504837",
+        "code": "HK-HK",
+        "local_code": "HK",
+        "name": "Hong Kong Island",
+        "continent": "AS",
+        "iso_country": "HK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hong_Kong_Island",
+        "keywords": ""
+    }
+}

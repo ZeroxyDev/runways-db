@@ -1,0 +1,38 @@
+{
+    "id": "308250",
+    "ident": "TD-0001",
+    "type": "small_airport",
+    "name": "Aozou Airstrip",
+    "latitude_deg": "22.645195",
+    "longitude_deg": "17.696527",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "TD",
+    "iso_region": "TD-TI",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302604",
+        "code": "TD",
+        "name": "Chad",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chad",
+        "keywords": "Airports in Chad"
+    },
+    "region": {
+        "id": "430632",
+        "code": "TD-TI",
+        "local_code": "TI",
+        "name": "Tibesti",
+        "continent": "AF",
+        "iso_country": "TD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tibesti_Region",
+        "keywords": "تيبستي"
+    }
+}

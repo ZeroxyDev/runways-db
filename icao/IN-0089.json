@@ -1,0 +1,38 @@
+{
+    "id": "309944",
+    "ident": "IN-0089",
+    "type": "small_airport",
+    "name": "Noamundi Airport",
+    "latitude_deg": "22.192222",
+    "longitude_deg": "85.548889",
+    "elevation_ft": "1402",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-JH",
+    "municipality": "Itarbalijor",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": "Airports in India, Indian airports"
+    },
+    "region": {
+        "id": "304177",
+        "code": "IN-JH",
+        "local_code": "JH",
+        "name": "Jharkhand",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jharkhand",
+        "keywords": "Airports in Jharkhand"
+    }
+}

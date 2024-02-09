@@ -1,0 +1,38 @@
+{
+    "id": "31472",
+    "ident": "FZUP",
+    "type": "small_airport",
+    "name": "Diboko Airport",
+    "latitude_deg": "-7.003610134124756",
+    "longitude_deg": "21.244199752807617",
+    "elevation_ft": "2431",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KI",
+    "municipality": "Diboko",
+    "scheduled_service": "no",
+    "gps_code": "FZUP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302561",
+        "code": "CD",
+        "name": "Democratic Republic of the Congo",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+        "keywords": "DRC"
+    },
+    "region": {
+        "id": "303316",
+        "code": "CD-KI",
+        "local_code": "KI",
+        "name": "Kasaï Province",
+        "continent": "AF",
+        "iso_country": "CD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasaï_Province",
+        "keywords": "Airports in Kasaï Province"
+    }
+}

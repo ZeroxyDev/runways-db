@@ -1,0 +1,38 @@
+{
+    "id": "316640",
+    "ident": "CZ-0075",
+    "type": "small_airport",
+    "name": "Slušovice Airfield",
+    "latitude_deg": "49.259034",
+    "longitude_deg": "17.813344",
+    "elevation_ft": "1155",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-ZL",
+    "municipality": "Slušovice",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LKSLUS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Letiště Slušovice",
+    "country": {
+        "id": "302680",
+        "code": "CZ",
+        "name": "Czech Republic",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
+        "keywords": "Letiště České republiky, Czechia"
+    },
+    "region": {
+        "id": "303546",
+        "code": "CZ-ZL",
+        "local_code": "ZL",
+        "name": "Zlín Region",
+        "continent": "EU",
+        "iso_country": "CZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zlín_Region",
+        "keywords": "Zlínský kraj"
+    }
+}

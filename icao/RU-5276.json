@@ -1,0 +1,62 @@
+{
+    "id": "35000",
+    "ident": "RU-5276",
+    "type": "small_airport",
+    "name": "Kilpyavr Air Base",
+    "latitude_deg": "69.09521",
+    "longitude_deg": "32.401473",
+    "elevation_ft": "305",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-MUR",
+    "municipality": "Murmansk",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "XLMW",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kilpyavr_(air_base)",
+    "keywords": "Kilp-Yavr, Kil'p-Yar, Kilp-Yar, Kilpyarvi, Kilpajärvi, Килпъявр, Килп-Явр, УЛМВ, ЬЛМВ, XLMW",
+    "runways": [
+        {
+            "id": "507550",
+            "airport_ref": "35000",
+            "airport_ident": "RU-5276",
+            "length_ft": "8202",
+            "width_ft": "138",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305306",
+        "code": "RU-MUR",
+        "local_code": "MUR",
+        "name": "Murmansk Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Murmansk_Oblast",
+        "keywords": "Airports in Murmansk Oblast"
+    }
+}

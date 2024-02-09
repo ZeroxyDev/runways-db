@@ -1,0 +1,38 @@
+{
+    "id": "315594",
+    "ident": "GR-0010",
+    "type": "small_airport",
+    "name": "Perneri Airfield",
+    "latitude_deg": "38.37548",
+    "longitude_deg": "23.25761",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-H",
+    "municipality": "Thiva",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Thiva Aeropark",
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "430183",
+        "code": "GR-H",
+        "local_code": "H",
+        "name": "Central Greece",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Greece_(region)",
+        "keywords": "Περιφέρεια Στερεάς Ελλάδας"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "43854",
+    "ident": "LOKQ",
+    "type": "heliport",
+    "name": "Lienz-Nikolsdorf ÖAMTC Heliport",
+    "latitude_deg": "46.79974",
+    "longitude_deg": "12.876815",
+    "elevation_ft": "2097",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-7",
+    "municipality": "Lengberg",
+    "scheduled_service": "no",
+    "gps_code": "LOKQ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Christophorus 7",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302963",
+        "code": "AT-7",
+        "local_code": "7",
+        "name": "Tyrol",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tyrol",
+        "keywords": "Tirol"
+    }
+}

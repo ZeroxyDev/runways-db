@@ -1,0 +1,38 @@
+{
+    "id": "319141",
+    "ident": "IT-0249",
+    "type": "small_airport",
+    "name": "Willy il Coyote Airfield",
+    "latitude_deg": "44.771828",
+    "longitude_deg": "10.832155",
+    "elevation_ft": "88",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-45",
+    "municipality": "Carpi (MO)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MOCRP",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Campo di Volo \"Willy il Coyote\", Wile E Coyote",
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306367",
+        "code": "IT-45",
+        "local_code": "45",
+        "name": "Emilia-Romagna",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Emilia-Romagna",
+        "keywords": "ER"
+    }
+}

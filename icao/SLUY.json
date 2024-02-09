@@ -1,0 +1,62 @@
+{
+    "id": "39473",
+    "ident": "SLUY",
+    "type": "small_airport",
+    "name": "Uyuni Joya Andina Airport",
+    "latitude_deg": "-20.441304",
+    "longitude_deg": "-66.857553",
+    "elevation_ft": "11136",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-P",
+    "municipality": "Quijarro",
+    "scheduled_service": "no",
+    "gps_code": "SLUY",
+    "iata_code": "UYU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "508591",
+            "airport_ref": "39473",
+            "airport_ident": "SLUY",
+            "length_ft": "13123",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "-20.431973",
+            "le_longitude_deg": "-66.873802",
+            "le_elevation_ft": "12020",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "-20.450527",
+            "he_longitude_deg": "-66.840942",
+            "he_elevation_ft": "12020",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302790",
+        "code": "BO",
+        "name": "Bolivia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bolivia",
+        "keywords": "Aeropuertos de Bolivia"
+    },
+    "region": {
+        "id": "303195",
+        "code": "BO-P",
+        "local_code": "P",
+        "name": "Potosí Department",
+        "continent": "SA",
+        "iso_country": "BO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Potosí_Department",
+        "keywords": "Airports in Potosí Department"
+    }
+}

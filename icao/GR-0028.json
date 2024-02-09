@@ -1,0 +1,38 @@
+{
+    "id": "340335",
+    "ident": "GR-0028",
+    "type": "closed",
+    "name": "Argos Airport",
+    "latitude_deg": "37.65919",
+    "longitude_deg": "22.704",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-J",
+    "municipality": "Argos",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "airstrip",
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "430182",
+        "code": "GR-J",
+        "local_code": "J",
+        "name": "Peloponnese",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Peloponnese_(region)",
+        "keywords": "Περιφέρεια Πελοποννήσου"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "430648",
+    "ident": "CYKT",
+    "type": "small_airport",
+    "name": "Tranquille Valley Airfield",
+    "latitude_deg": "50.859547",
+    "longitude_deg": "-120.671132",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Tranquille",
+    "scheduled_service": "no",
+    "gps_code": "CYKT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": "British Columbian airports"
+    }
+}

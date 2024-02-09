@@ -1,0 +1,38 @@
+{
+    "id": "31462",
+    "ident": "FZTS",
+    "type": "small_airport",
+    "name": "Kasese Kaniama Airport",
+    "latitude_deg": "-7.698494",
+    "longitude_deg": "24.049416",
+    "elevation_ft": "2871",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-HL",
+    "municipality": "Kasese",
+    "scheduled_service": "no",
+    "gps_code": "FZTS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302561",
+        "code": "CD",
+        "name": "Democratic Republic of the Congo",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+        "keywords": "DRC"
+    },
+    "region": {
+        "id": "505637",
+        "code": "CD-HL",
+        "local_code": "HL",
+        "name": "Haut-Lomami Province",
+        "continent": "AF",
+        "iso_country": "CD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-Lomami",
+        "keywords": "Airports in Haut-Lomami Province"
+    }
+}

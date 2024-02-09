@@ -1,0 +1,72 @@
+{
+    "id": "30191",
+    "ident": "ESSN",
+    "type": "small_airport",
+    "name": "Norrtälje Airfield",
+    "latitude_deg": "59.732592",
+    "longitude_deg": "18.695215",
+    "elevation_ft": "39",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-AB",
+    "municipality": "Norrtälje",
+    "scheduled_service": "no",
+    "gps_code": "ESSN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://rfk.nu",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mellingeholm_Airport",
+    "keywords": "Mellingeholm",
+    "runways": [
+        {
+            "id": "504562",
+            "airport_ref": "30191",
+            "airport_ident": "ESSN",
+            "length_ft": "2624",
+            "width_ft": "59",
+            "surface": "Asphalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "504563",
+            "airport_ref": "30191",
+            "airport_ident": "ESSN",
+            "type": "Radio",
+            "description": "Norrtälje radio",
+            "frequency_mhz": "123.325"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna, Sverige"
+    },
+    "region": {
+        "id": "305411",
+        "code": "SE-AB",
+        "local_code": "AB",
+        "name": "Stockholms län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Stockholms_län",
+        "keywords": "Stockholm County"
+    }
+}

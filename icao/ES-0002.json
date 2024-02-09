@@ -1,0 +1,72 @@
+{
+    "id": "298473",
+    "ident": "ES-0002",
+    "type": "small_airport",
+    "name": "Vinaròs Airfield",
+    "latitude_deg": "40.519722222",
+    "longitude_deg": "0.390277778",
+    "elevation_ft": "364",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-VC",
+    "municipality": "Vinaròs",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.aeroclubmaestrat.com",
+    "wikipedia_link": "",
+    "keywords": "aeroclub maestrat, aerodrom vinaros, aeroclub vinaros, camp de vol vinaros",
+    "runways": [
+        {
+            "id": "513442",
+            "airport_ref": "298473",
+            "airport_ident": "ES-0002",
+            "length_ft": "1640",
+            "width_ft": "98",
+            "surface": "asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "384",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "384",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "513443",
+            "airport_ref": "298473",
+            "airport_ident": "ES-0002",
+            "type": "CTAF",
+            "description": "Vinaròs Radio",
+            "frequency_mhz": "130.125"
+        }
+    ],
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303782",
+        "code": "ES-VC",
+        "local_code": "VC",
+        "name": "Valencia (community)",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Valencian_Community",
+        "keywords": "Valencian airports, Valencian Community"
+    }
+}

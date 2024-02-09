@@ -1,0 +1,62 @@
+{
+    "id": "32555",
+    "ident": "UUYS",
+    "type": "medium_airport",
+    "name": "Usinsk Airport",
+    "latitude_deg": "66.0047",
+    "longitude_deg": "57.367199",
+    "elevation_ft": "262",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-KO",
+    "municipality": "Usinsk",
+    "scheduled_service": "yes",
+    "gps_code": "UUYS",
+    "iata_code": "USK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Usinsk_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "507680",
+            "airport_ref": "32555",
+            "airport_ident": "UUYS",
+            "length_ft": "8202",
+            "width_ft": "147",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305294",
+        "code": "RU-KO",
+        "local_code": "KO",
+        "name": "Komi Republic",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Komi_Republic",
+        "keywords": "Airports in Komi Republic"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "id": "32040",
+    "ident": "ULAM",
+    "type": "medium_airport",
+    "name": "Naryan Mar Airport",
+    "latitude_deg": "67.639999",
+    "longitude_deg": "53.121899",
+    "elevation_ft": "36",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-NEN",
+    "municipality": "Naryan Mar",
+    "scheduled_service": "yes",
+    "gps_code": "ULAM",
+    "iata_code": "NNM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Naryan-Mar_Airport",
+    "keywords": "Нарья́н-Мар",
+    "runways": [
+        {
+            "id": "507683",
+            "airport_ref": "32040",
+            "airport_ident": "ULAM",
+            "length_ft": "8202",
+            "width_ft": "131",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305307",
+        "code": "RU-NEN",
+        "local_code": "NEN",
+        "name": "Nenets Autonomous Okrug",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nenets_Autonomous_Okrug",
+        "keywords": "Airports in Nenets Autonomous Okrug"
+    }
+}

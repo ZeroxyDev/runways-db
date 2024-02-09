@@ -1,0 +1,38 @@
+{
+    "id": "316876",
+    "ident": "MX-0105",
+    "type": "small_airport",
+    "name": "Albatros Residencial Aéreo",
+    "latitude_deg": "18.592625",
+    "longitude_deg": "-99.259983",
+    "elevation_ft": "3190",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-MOR",
+    "municipality": "Jojutla",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ABT",
+    "home_link": "https://www.residencialaereoalbatros.mx/",
+    "wikipedia_link": "https://es.wikipedia.org/wiki/Aer%C3%B3dromo_Albatros_Residencial_A%C3%A9reo",
+    "keywords": "",
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México, Mexican airports"
+    },
+    "region": {
+        "id": "304806",
+        "code": "MX-MOR",
+        "local_code": "MOR",
+        "name": "Morelos",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Morelos",
+        "keywords": "Airports in Morelos"
+    }
+}

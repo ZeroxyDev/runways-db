@@ -1,0 +1,38 @@
+{
+    "id": "316471",
+    "ident": "XK-0001",
+    "type": "closed",
+    "name": "Kaçanik Agricultural Airport",
+    "latitude_deg": "42.346508",
+    "longitude_deg": "21.194129",
+    "elevation_ft": "1916",
+    "continent": "EU",
+    "iso_country": "XK",
+    "iso_region": "XK-05",
+    "municipality": "Kaçanik",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Camp_Bondsteel",
+    "keywords": "",
+    "country": {
+        "id": "302720",
+        "code": "XK",
+        "name": "Kosovo",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kosovo",
+        "keywords": "Kosova"
+    },
+    "region": {
+        "id": "317191",
+        "code": "XK-05",
+        "local_code": "05",
+        "name": "Ferizaj District",
+        "continent": "EU",
+        "iso_country": "XK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/District_of_Ferizaj",
+        "keywords": "Rajonii Ferizajit"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "35418",
+    "ident": "SBMM",
+    "type": "heliport",
+    "name": "Petrobas 20 Helideck",
+    "latitude_deg": "-22.357201",
+    "longitude_deg": "-40.090599",
+    "elevation_ft": "106",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Macaé",
+    "scheduled_service": "no",
+    "gps_code": "SBMM",
+    "iata_code": "",
+    "local_code": "9PPB",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "P-20",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303217",
+        "code": "BR-RJ",
+        "local_code": "RJ",
+        "name": "Rio de Janeiro",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro_(state)",
+        "keywords": "Airports in Rio de Janeiro"
+    }
+}

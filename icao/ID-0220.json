@@ -1,0 +1,38 @@
+{
+    "id": "354038",
+    "ident": "ID-0220",
+    "type": "small_airport",
+    "name": "Manggelum Airport",
+    "latitude_deg": "-5.416371",
+    "longitude_deg": "140.436231",
+    "elevation_ft": "217",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PS",
+    "municipality": "Boven Digoel Regency",
+    "scheduled_service": "no",
+    "gps_code": "WAJT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Mangelum",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "430277",
+        "code": "ID-PS",
+        "local_code": "PS",
+        "name": "Papua Selatan (South Papua)",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Papua",
+        "keywords": ""
+    }
+}

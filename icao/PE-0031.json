@@ -1,0 +1,38 @@
+{
+    "id": "356337",
+    "ident": "PE-0031",
+    "type": "closed",
+    "name": "Aldora Airport",
+    "latitude_deg": "-5.15176",
+    "longitude_deg": "-80.94737",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-PIU",
+    "municipality": "Paita",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Peru",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305026",
+        "code": "PE-PIU",
+        "local_code": "PIU",
+        "name": "Piura Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Piura_Region",
+        "keywords": "Airports in Piura Region"
+    }
+}

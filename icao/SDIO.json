@@ -1,0 +1,62 @@
+{
+    "id": "170",
+    "ident": "SDIO",
+    "type": "small_airport",
+    "name": "Aeroclube de Itápolis Airport",
+    "latitude_deg": "-21.600287",
+    "longitude_deg": "-48.833057",
+    "elevation_ft": "1827",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Itápolis",
+    "scheduled_service": "no",
+    "gps_code": "SDIO",
+    "iata_code": "",
+    "local_code": "SP0109",
+    "home_link": "https://www.aci.com.br/",
+    "wikipedia_link": "https://pt.wikipedia.org/wiki/Aer%C3%B3dromo_de_It%C3%A1polis",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "234211",
+            "airport_ref": "170",
+            "airport_ident": "SDIO",
+            "length_ft": "4265",
+            "width_ft": "82",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303224",
+        "code": "BR-SP",
+        "local_code": "SP",
+        "name": "São Paulo",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
+        "keywords": "Airports in São Paulo"
+    }
+}

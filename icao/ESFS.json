@@ -1,0 +1,62 @@
+{
+    "id": "29317",
+    "ident": "ESFS",
+    "type": "small_airport",
+    "name": "Sandvik Airfield",
+    "latitude_deg": "57.0681",
+    "longitude_deg": "16.8613",
+    "elevation_ft": "30",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-H",
+    "municipality": "Sandvik",
+    "scheduled_service": "no",
+    "gps_code": "ESFS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Öland",
+    "runways": [
+        {
+            "id": "506987",
+            "airport_ref": "29317",
+            "airport_ident": "ESFS",
+            "length_ft": "1967",
+            "width_ft": "66",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna, Sverige"
+    },
+    "region": {
+        "id": "305419",
+        "code": "SE-H",
+        "local_code": "H",
+        "name": "Kalmar län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kalmar_län",
+        "keywords": "Kalmar County"
+    }
+}

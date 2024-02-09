@@ -1,0 +1,38 @@
+{
+    "id": "41599",
+    "ident": "VE-0206",
+    "type": "closed",
+    "name": "La Guaira Airport",
+    "latitude_deg": "10.53333",
+    "longitude_deg": "-67.033333",
+    "elevation_ft": "2569",
+    "continent": "NA",
+    "iso_country": "VE",
+    "iso_region": "VE-X",
+    "municipality": "Ciudad Caribia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "LAG",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306188",
+        "code": "VE-X",
+        "local_code": "X",
+        "name": "La Guaira State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Guaira_(state)",
+        "keywords": "Vargas State"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "332668",
+    "ident": "NL-0055",
+    "type": "closed",
+    "name": "Schijndel Air Base B.85",
+    "latitude_deg": "51.6065",
+    "longitude_deg": "5.476694",
+    "elevation_ft": "23",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-NB",
+    "municipality": "Schijndel",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://nl.wikipedia.org/wiki/Vliegveld_B.85_Schijndel",
+    "keywords": "B.85",
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
+    },
+    "region": {
+        "id": "304938",
+        "code": "NL-NB",
+        "local_code": "NB",
+        "name": "Noord-Brabant",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Noord-Brabant",
+        "keywords": "Airports in Noord-Brabant"
+    }
+}

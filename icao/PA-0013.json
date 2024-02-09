@@ -1,0 +1,38 @@
+{
+    "id": "42196",
+    "ident": "PA-0013",
+    "type": "small_airport",
+    "name": "Playón Chico Airport",
+    "latitude_deg": "9.30692",
+    "longitude_deg": "-78.235273",
+    "elevation_ft": "18",
+    "continent": "NA",
+    "iso_country": "PA",
+    "iso_region": "PS-GY",
+    "municipality": "Ukupseni",
+    "scheduled_service": "yes",
+    "gps_code": "MPPH",
+    "iata_code": "PYC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Play%C3%B3n_Chico_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302749",
+        "code": "PA",
+        "name": "Panama",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Panama",
+        "keywords": "Aeropuertos de Panamá"
+    },
+    "region": {
+        "id": "305005",
+        "code": "PS-GY",
+        "local_code": "GY",
+        "name": "Guna Yala Indigenous Region",
+        "continent": "NA",
+        "iso_country": "PA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guna_Yala",
+        "keywords": "Airports in Guna Yala Indigenous Region"
+    }
+}

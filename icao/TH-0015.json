@@ -1,0 +1,80 @@
+{
+    "id": "339970",
+    "ident": "TH-0015",
+    "type": "small_airport",
+    "name": "Best Ocean Airpark",
+    "latitude_deg": "13.54018",
+    "longitude_deg": "100.32936",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-74",
+    "municipality": "Samut Sakhon",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "508293",
+            "airport_ref": "339970",
+            "airport_ident": "TH-0015",
+            "length_ft": "2600",
+            "width_ft": "",
+            "surface": "asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "508292",
+            "airport_ref": "339970",
+            "airport_ident": "TH-0015",
+            "type": "BANGKOK APPROACH",
+            "description": "",
+            "frequency_mhz": "124.35"
+        },
+        {
+            "id": "508291",
+            "airport_ref": "339970",
+            "airport_ident": "TH-0015",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "123.65"
+        }
+    ],
+    "country": {
+        "id": "302663",
+        "code": "TH",
+        "name": "Thailand",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
+        "keywords": "Siam, Siamese"
+    },
+    "region": {
+        "id": "305765",
+        "code": "TH-74",
+        "local_code": "74",
+        "name": "Samut Sakhon Province",
+        "continent": "AS",
+        "iso_country": "TH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Samut_Sakhon_province",
+        "keywords": "Airports in Samut Sakhon Province"
+    }
+}

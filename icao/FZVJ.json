@@ -1,0 +1,38 @@
+{
+    "id": "31484",
+    "ident": "FZVJ",
+    "type": "small_airport",
+    "name": "Tshumbe Airport",
+    "latitude_deg": "-4.039285",
+    "longitude_deg": "24.365616",
+    "elevation_ft": "1804",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-SA",
+    "municipality": "Tshumbe",
+    "scheduled_service": "yes",
+    "gps_code": "FZVJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tshombe_Airport",
+    "keywords": "Tshombe",
+    "country": {
+        "id": "302561",
+        "code": "CD",
+        "name": "Democratic Republic of the Congo",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+        "keywords": "DRC"
+    },
+    "region": {
+        "id": "505650",
+        "code": "CD-SA",
+        "local_code": "SA",
+        "name": "Sankuru Province",
+        "continent": "AF",
+        "iso_country": "CD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sankuru",
+        "keywords": "Airports in Sankuru Province"
+    }
+}

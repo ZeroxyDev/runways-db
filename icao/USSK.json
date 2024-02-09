@@ -1,0 +1,62 @@
+{
+    "id": "42985",
+    "ident": "USSK",
+    "type": "medium_airport",
+    "name": "Uktus Airport",
+    "latitude_deg": "56.701698",
+    "longitude_deg": "60.790001",
+    "elevation_ft": "643",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-SVE",
+    "municipality": "Yekaterinburg",
+    "scheduled_service": "no",
+    "gps_code": "USSK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://uktus.uralfirm.ru/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Uktus_Airport",
+    "keywords": "Аэропорт Уктус",
+    "runways": [
+        {
+            "id": "507569",
+            "airport_ref": "42985",
+            "airport_ident": "USSK",
+            "length_ft": "5905",
+            "width_ft": "124",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305328",
+        "code": "RU-SVE",
+        "local_code": "SVE",
+        "name": "Sverdlovsk Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sverdlovsk_Oblast",
+        "keywords": "Airports in Sverdlovsk Oblast"
+    }
+}

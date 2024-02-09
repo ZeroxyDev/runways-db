@@ -1,0 +1,62 @@
+{
+    "id": "2180",
+    "ident": "SE60",
+    "type": "small_airport",
+    "name": "La Puntilla Airport",
+    "latitude_deg": "-2.443333",
+    "longitude_deg": "-79.399167",
+    "elevation_ft": "195",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-F",
+    "municipality": "La Puntilla",
+    "scheduled_service": "no",
+    "gps_code": "SELU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SE60",
+    "runways": [
+        {
+            "id": "235521",
+            "airport_ref": "2180",
+            "airport_ident": "SE60",
+            "length_ft": "2953",
+            "width_ft": "39",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "-2.4418",
+            "le_longitude_deg": "-79.4031",
+            "le_elevation_ft": "189",
+            "le_heading_degT": "111",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "-2.4447",
+            "he_longitude_deg": "-79.3955",
+            "he_elevation_ft": "196",
+            "he_heading_degT": "291",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303657",
+        "code": "EC-F",
+        "local_code": "F",
+        "name": "Cañar Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ca%C3%B1ar_Province",
+        "keywords": "Airports in Canar Province"
+    }
+}

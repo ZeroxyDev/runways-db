@@ -1,0 +1,38 @@
+{
+    "id": "31404",
+    "ident": "FZJR",
+    "type": "small_airport",
+    "name": "Kere Kere Airport",
+    "latitude_deg": "2.731236",
+    "longitude_deg": "30.533323",
+    "elevation_ft": "4429",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-IT",
+    "municipality": "Kere Kere",
+    "scheduled_service": "no",
+    "gps_code": "FZJR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302561",
+        "code": "CD",
+        "name": "Democratic Republic of the Congo",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+        "keywords": "DRC"
+    },
+    "region": {
+        "id": "505643",
+        "code": "CD-IT",
+        "local_code": "IT",
+        "name": "Ituri Province",
+        "continent": "AF",
+        "iso_country": "CD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ituri_Province",
+        "keywords": "Airports in Ituri Province"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "id": "32220",
+    "ident": "RPLJ",
+    "type": "small_airport",
+    "name": "Jomalig Island Airport",
+    "latitude_deg": "14.704161",
+    "longitude_deg": "122.331133",
+    "elevation_ft": "36",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-QUE",
+    "municipality": "Jomalig",
+    "scheduled_service": "no",
+    "gps_code": "RPLJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jomalig_Airport",
+    "keywords": "Jomalig",
+    "runways": [
+        {
+            "id": "512805",
+            "airport_ref": "32220",
+            "airport_ident": "RPLJ",
+            "length_ft": "3400",
+            "width_ft": "200",
+            "surface": "unpaved",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "14.700556",
+            "le_longitude_deg": "122.3263889",
+            "le_elevation_ft": "30",
+            "le_heading_degT": "53",
+            "le_displaced_threshold_ft": "30",
+            "he_ident": "23",
+            "he_latitude_deg": "14.706112",
+            "he_longitude_deg": "122.333612",
+            "he_elevation_ft": "30",
+            "he_heading_degT": "233",
+            "he_displaced_threshold_ft": "30"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "512804",
+            "airport_ref": "32220",
+            "airport_ident": "RPLJ",
+            "type": "CTAF",
+            "description": "Jomalig Traffic",
+            "frequency_mhz": "121.9"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305114",
+        "code": "PH-QUE",
+        "local_code": "QUE",
+        "name": "Quezon Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quezon_Province",
+        "keywords": "Airports in Quezon Province"
+    },
+    "navaids": [
+        {
+            "id": "89531",
+            "filename": "Jomalig_VOR-DME_PH",
+            "ident": "JOM",
+            "name": "Jomalig",
+            "type": "VOR-DME",
+            "frequency_khz": "116700",
+            "latitude_deg": "14.704899787902832",
+            "longitude_deg": "122.33000183105469",
+            "elevation_ft": "77",
+            "iso_country": "PH",
+            "dme_frequency_khz": "116700",
+            "dme_channel": "114X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-1.23",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPLJ"
+        }
+    ]
+}

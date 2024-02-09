@@ -1,0 +1,72 @@
+{
+    "id": "354040",
+    "ident": "CN-0321",
+    "type": "medium_airport",
+    "name": "Anji Tianzihu General Airport",
+    "latitude_deg": "30.797725",
+    "longitude_deg": "119.590287",
+    "elevation_ft": "137",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-33",
+    "municipality": "Anji",
+    "scheduled_service": "no",
+    "gps_code": "ZSTZ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "510086",
+            "airport_ref": "354040",
+            "airport_ident": "CN-0321",
+            "length_ft": "2625",
+            "width_ft": "100",
+            "surface": "concrete",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "79",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "259",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "510085",
+            "airport_ref": "354040",
+            "airport_ident": "CN-0321",
+            "type": "TWR",
+            "description": "Anji Tianzihu Tower",
+            "frequency_mhz": "122.05"
+        }
+    ],
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303432",
+        "code": "CN-33",
+        "local_code": "33",
+        "name": "Zhejiang Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zhejiang",
+        "keywords": "Airports in Zhejiang Province"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "id": "39486",
+    "ident": "SLCI",
+    "type": "small_airport",
+    "name": "Caigua Airport",
+    "latitude_deg": "-21.136389",
+    "longitude_deg": "-63.752778",
+    "elevation_ft": "1685",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-T",
+    "municipality": "Gran Chaco",
+    "scheduled_service": "no",
+    "gps_code": "SLCI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Caigua_Airport",
+    "keywords": "Carapari, Caigua",
+    "runways": [
+        {
+            "id": "515601",
+            "airport_ref": "39486",
+            "airport_ident": "SLCI",
+            "length_ft": "5108",
+            "width_ft": "98",
+            "surface": "Concrete",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302790",
+        "code": "BO",
+        "name": "Bolivia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bolivia",
+        "keywords": "Aeropuertos de Bolivia"
+    },
+    "region": {
+        "id": "303197",
+        "code": "BO-T",
+        "local_code": "T",
+        "name": "Tarija Department",
+        "continent": "SA",
+        "iso_country": "BO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tarija_Department",
+        "keywords": "Airports in Tarija Department"
+    }
+}

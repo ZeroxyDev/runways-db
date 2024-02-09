@@ -1,0 +1,38 @@
+{
+    "id": "309591",
+    "ident": "IN-0087",
+    "type": "small_airport",
+    "name": "Gauchar Airstrip",
+    "latitude_deg": "30.284585",
+    "longitude_deg": "79.161665",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-UT",
+    "municipality": "Gauchar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Gaucher",
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": "Airports in India, Indian airports"
+    },
+    "region": {
+        "id": "304196",
+        "code": "IN-UT",
+        "local_code": "UT",
+        "name": "Uttarakhand",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Uttaranchal",
+        "keywords": "Airports in Uttarakhand, Uttaranchal"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "28206",
+    "ident": "CEG7",
+    "type": "seaplane_base",
+    "name": "Dawson City Seaplane Base",
+    "latitude_deg": "64.066704",
+    "longitude_deg": "-139.432999",
+    "elevation_ft": "1050",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-YT",
+    "municipality": "Dawson City",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dawson_City_Water_Aerodrome",
+    "keywords": "EG7, CEG7",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303307",
+        "code": "CA-YT",
+        "local_code": "YT",
+        "name": "Yukon",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Yukon_Territory",
+        "keywords": "Airports in Yukon"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "42435",
+    "ident": "BR-0006",
+    "type": "closed",
+    "name": "Ilha Solteira",
+    "latitude_deg": "-20.4217",
+    "longitude_deg": "-51.331402",
+    "elevation_ft": "974",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://pt.wikipedia.org/wiki/Aeroporto_de_Ilha_Solteira",
+    "keywords": "ILB, SBIL",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303224",
+        "code": "BR-SP",
+        "local_code": "SP",
+        "name": "São Paulo",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
+        "keywords": "Airports in São Paulo"
+    }
+}

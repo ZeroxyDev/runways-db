@@ -1,0 +1,38 @@
+{
+    "id": "31494",
+    "ident": "FZWF",
+    "type": "small_airport",
+    "name": "Kipushi Airport",
+    "latitude_deg": "-6.136394",
+    "longitude_deg": "25.159314",
+    "elevation_ft": "2953",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-LO",
+    "municipality": "Kipushi",
+    "scheduled_service": "no",
+    "gps_code": "FZWF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302561",
+        "code": "CD",
+        "name": "Democratic Republic of the Congo",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+        "keywords": "DRC"
+    },
+    "region": {
+        "id": "505647",
+        "code": "CD-LO",
+        "local_code": "LO",
+        "name": "Lomami Province",
+        "continent": "AF",
+        "iso_country": "CD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lomami_Province",
+        "keywords": "Airports in Lomami Province"
+    }
+}

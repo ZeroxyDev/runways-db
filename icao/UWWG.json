@@ -1,0 +1,62 @@
+{
+    "id": "44614",
+    "ident": "UWWG",
+    "type": "medium_airport",
+    "name": "Bezymyanka Airfield",
+    "latitude_deg": "53.220001",
+    "longitude_deg": "50.325001",
+    "elevation_ft": "135",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-SAM",
+    "municipality": "Samara",
+    "scheduled_service": "no",
+    "gps_code": "UWWG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.aviacor.ru/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bezymyanka_%28airport%29",
+    "keywords": "Bezimyanka Airfield, Аэродром Безымянка",
+    "runways": [
+        {
+            "id": "507561",
+            "airport_ref": "44614",
+            "airport_ident": "UWWG",
+            "length_ft": "11482",
+            "width_ft": "295",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305322",
+        "code": "RU-SAM",
+        "local_code": "SAM",
+        "name": "Samara Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Samara_Oblast",
+        "keywords": "Airports in Samara Oblast"
+    }
+}

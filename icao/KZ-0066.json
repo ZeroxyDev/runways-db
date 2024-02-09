@@ -1,0 +1,38 @@
+{
+    "id": "44327",
+    "ident": "KZ-0066",
+    "type": "small_airport",
+    "name": "Aktogay Air Base",
+    "latitude_deg": "46.89158",
+    "longitude_deg": "79.846745",
+    "elevation_ft": "1188",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-ABA",
+    "municipality": "Aktogay",
+    "scheduled_service": "no",
+    "gps_code": "ZDX5",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэродром Актогай",
+    "country": {
+        "id": "302645",
+        "code": "KZ",
+        "name": "Kazakhstan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kazakhstan",
+        "keywords": "Kazakh"
+    },
+    "region": {
+        "id": "430273",
+        "code": "KZ-ABA",
+        "local_code": "ABA",
+        "name": "Abai Region",
+        "continent": "AS",
+        "iso_country": "KZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Abai_Region",
+        "keywords": ""
+    }
+}

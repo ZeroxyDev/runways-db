@@ -1,0 +1,38 @@
+{
+    "id": "430159",
+    "ident": "DZ-0030",
+    "type": "small_airport",
+    "name": "Tin Zaoutine Airport",
+    "latitude_deg": "19.99369",
+    "longitude_deg": "3.0223",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "DZ",
+    "iso_region": "DZ-58",
+    "municipality": "Tin Zaoutine",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302568",
+        "code": "DZ",
+        "name": "Algeria",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Algeria",
+        "keywords": "مطارات الجزائر"
+    },
+    "region": {
+        "id": "430231",
+        "code": "DZ-58",
+        "local_code": "58",
+        "name": "In Guezzam Province",
+        "continent": "AF",
+        "iso_country": "DZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/In_Guezzam_Province",
+        "keywords": "ولاية عين قزّام"
+    }
+}

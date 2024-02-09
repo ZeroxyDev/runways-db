@@ -1,0 +1,38 @@
+{
+    "id": "508518",
+    "ident": "CA-0847",
+    "type": "seaplane_base",
+    "name": "Minette Bay Water Aerodrome",
+    "latitude_deg": "54.02",
+    "longitude_deg": "-128.63",
+    "elevation_ft": "1450",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Kitimat",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "AS3",
+    "home_link": "https://www.minettebaylodge.com/location/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": "British Columbian airports"
+    }
+}

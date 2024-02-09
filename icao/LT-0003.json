@@ -1,0 +1,62 @@
+{
+    "id": "308907",
+    "ident": "LT-0003",
+    "type": "small_airport",
+    "name": "Trakėnai Airstrip",
+    "latitude_deg": "54.365886",
+    "longitude_deg": "23.167256",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "LT",
+    "iso_region": "LT-MR",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "trakenai, kalvarija",
+    "runways": [
+        {
+            "id": "506808",
+            "airport_ref": "308907",
+            "airport_ident": "LT-0003",
+            "length_ft": "1230",
+            "width_ft": "82",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302700",
+        "code": "LT",
+        "name": "Lithuania",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lithuania",
+        "keywords": "Lithuanian airports"
+    },
+    "region": {
+        "id": "304497",
+        "code": "LT-MR",
+        "local_code": "MR",
+        "name": "Marijampolė County",
+        "continent": "EU",
+        "iso_country": "LT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Marijampol%C4%97_County",
+        "keywords": "Airports in Marijampolė County"
+    }
+}

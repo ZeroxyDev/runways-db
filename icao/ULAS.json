@@ -1,0 +1,62 @@
+{
+    "id": "42918",
+    "ident": "ULAS",
+    "type": "small_airport",
+    "name": "Solovki Airport",
+    "latitude_deg": "65.029999",
+    "longitude_deg": "35.733334",
+    "elevation_ft": "60",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-ARK",
+    "municipality": "Solovetsky Islands",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "CSH",
+    "local_code": "ULAS",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Solovki_Airport",
+    "keywords": "Аэропорт Соловки, УЛАС",
+    "runways": [
+        {
+            "id": "507790",
+            "airport_ref": "42918",
+            "airport_ident": "ULAS",
+            "length_ft": "4920",
+            "width_ft": "105",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305266",
+        "code": "RU-ARK",
+        "local_code": "ARK",
+        "name": "Arkhangelsk Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkhangelsk_Oblast",
+        "keywords": "Airports in Arkhangelsk Oblast"
+    }
+}

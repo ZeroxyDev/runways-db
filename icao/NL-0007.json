@@ -1,0 +1,38 @@
+{
+    "id": "43702",
+    "ident": "NL-0007",
+    "type": "heliport",
+    "name": "Maastricht University Medical Center Heliport",
+    "latitude_deg": "50.834389",
+    "longitude_deg": "5.712478",
+    "elevation_ft": "165",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-LI",
+    "municipality": "Maastricht",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "EH0015, Maastricht Universitair Medisch Centrum Heliport",
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
+    },
+    "region": {
+        "id": "304937",
+        "code": "NL-LI",
+        "local_code": "LI",
+        "name": "Limburg",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Limburg",
+        "keywords": "Airports in Limburg"
+    }
+}

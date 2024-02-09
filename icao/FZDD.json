@@ -1,0 +1,38 @@
+{
+    "id": "31344",
+    "ident": "FZDD",
+    "type": "small_airport",
+    "name": "Wamba Luadi Airport",
+    "latitude_deg": "-6.473483",
+    "longitude_deg": "17.337327",
+    "elevation_ft": "2297",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-KW",
+    "municipality": "Wamba Luadi",
+    "scheduled_service": "no",
+    "gps_code": "FZDD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302561",
+        "code": "CD",
+        "name": "Democratic Republic of the Congo",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+        "keywords": "DRC"
+    },
+    "region": {
+        "id": "505646",
+        "code": "CD-KW",
+        "local_code": "KW",
+        "name": "Kwango Province",
+        "continent": "AF",
+        "iso_country": "CD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kwango",
+        "keywords": "Airports in Kwango Province"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "id": "30690",
+    "ident": "UWUB",
+    "type": "small_airport",
+    "name": "Beloretsk Airport",
+    "latitude_deg": "53.938389",
+    "longitude_deg": "58.340113",
+    "elevation_ft": "1827",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-BA",
+    "municipality": "Beloretsk",
+    "scheduled_service": "no",
+    "gps_code": "UWUB",
+    "iata_code": "BCX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "507797",
+            "airport_ref": "30690",
+            "airport_ident": "UWUB",
+            "length_ft": "4920",
+            "width_ft": "131",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305268",
+        "code": "RU-BA",
+        "local_code": "BA",
+        "name": "Republic of Bashkortostan",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Republic_of_Bashkortostan",
+        "keywords": "Airports in Republic of Bashkortostan"
+    }
+}

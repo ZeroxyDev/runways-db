@@ -1,0 +1,62 @@
+{
+    "id": "44331",
+    "ident": "RU-0101",
+    "type": "small_airport",
+    "name": "Ashuluk Airfield",
+    "latitude_deg": "47.42257",
+    "longitude_deg": "47.92717",
+    "elevation_ft": "-66",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-AST",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Kordon Airfield, Аэродром Ашулук, Аэродром Кордон",
+    "runways": [
+        {
+            "id": "507510",
+            "airport_ref": "44331",
+            "airport_ident": "RU-0101",
+            "length_ft": "8530",
+            "width_ft": "131",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305267",
+        "code": "RU-AST",
+        "local_code": "AST",
+        "name": "Astrakhan Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Astrakhan_Oblast",
+        "keywords": "Airports in Astrakhan Oblast"
+    }
+}

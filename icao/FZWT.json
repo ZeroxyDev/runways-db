@@ -1,0 +1,38 @@
+{
+    "id": "31726",
+    "ident": "FZWT",
+    "type": "small_airport",
+    "name": "Tunta Airport",
+    "latitude_deg": "-6.120761",
+    "longitude_deg": "24.546204",
+    "elevation_ft": "2766",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-LO",
+    "municipality": "Kabinda",
+    "scheduled_service": "no",
+    "gps_code": "FZWT",
+    "iata_code": "KBN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tunta_Airport",
+    "keywords": "Tunda",
+    "country": {
+        "id": "302561",
+        "code": "CD",
+        "name": "Democratic Republic of the Congo",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+        "keywords": "DRC"
+    },
+    "region": {
+        "id": "505647",
+        "code": "CD-LO",
+        "local_code": "LO",
+        "name": "Lomami Province",
+        "continent": "AF",
+        "iso_country": "CD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lomami_Province",
+        "keywords": "Airports in Lomami Province"
+    }
+}

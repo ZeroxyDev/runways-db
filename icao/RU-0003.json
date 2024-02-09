@@ -1,0 +1,62 @@
+{
+    "id": "34936",
+    "ident": "RU-0003",
+    "type": "small_airport",
+    "name": "Protasovo Air Base",
+    "latitude_deg": "54.493301",
+    "longitude_deg": "39.931702",
+    "elevation_ft": "469",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-RYA",
+    "municipality": "Listvyanka",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Protasovo_(air_base)",
+    "keywords": "Aleksandrovo Air Base, Protasovo Air Base, Ryazan Alexandrovo, Аэродром Александрово, Аэродром Протасово",
+    "runways": [
+        {
+            "id": "507511",
+            "airport_ref": "34936",
+            "airport_ident": "RU-0003",
+            "length_ft": "9843",
+            "width_ft": "223",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305319",
+        "code": "RU-RYA",
+        "local_code": "RYA",
+        "name": "Ryazan Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ryazan_Oblast",
+        "keywords": "Airports in Ryazan Oblast"
+    }
+}

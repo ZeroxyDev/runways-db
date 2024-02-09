@@ -1,0 +1,62 @@
+{
+    "id": "42960",
+    "ident": "UHMG",
+    "type": "medium_airport",
+    "name": "Chaybukha Airport",
+    "latitude_deg": "61.834999",
+    "longitude_deg": "160.548004",
+    "elevation_ft": "207",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-MAG",
+    "municipality": "Chaybukha",
+    "scheduled_service": "yes",
+    "gps_code": "UHMG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chaybukha_Airport",
+    "keywords": "Airport Chaibukha, Airport Gizhiga, Аэропорт Чайбуха, Аэропорт Гижига",
+    "runways": [
+        {
+            "id": "507736",
+            "airport_ref": "42960",
+            "airport_ident": "UHMG",
+            "length_ft": "6561",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305301",
+        "code": "RU-MAG",
+        "local_code": "MAG",
+        "name": "Magadan Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Magadan_Oblast",
+        "keywords": "Airports in Magadan Oblast"
+    }
+}

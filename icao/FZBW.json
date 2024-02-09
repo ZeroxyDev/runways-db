@@ -1,0 +1,38 @@
+{
+    "id": "31326",
+    "ident": "FZBW",
+    "type": "small_airport",
+    "name": "Basengele Airport",
+    "latitude_deg": "-1.861131",
+    "longitude_deg": "17.960973",
+    "elevation_ft": "1309",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-MN",
+    "municipality": "Basengele",
+    "scheduled_service": "no",
+    "gps_code": "FZBW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302561",
+        "code": "CD",
+        "name": "Democratic Republic of the Congo",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+        "keywords": "DRC"
+    },
+    "region": {
+        "id": "505639",
+        "code": "CD-MN",
+        "local_code": "MN",
+        "name": "Mai-Ndombe Province",
+        "continent": "AF",
+        "iso_country": "CD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mai-Ndombe_Province",
+        "keywords": "Airports in Mai-Ndombe Province"
+    }
+}

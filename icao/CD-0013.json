@@ -1,0 +1,38 @@
+{
+    "id": "319028",
+    "ident": "CD-0013",
+    "type": "small_airport",
+    "name": "Poko Airport",
+    "latitude_deg": "3.135224",
+    "longitude_deg": "26.884789",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-BU",
+    "municipality": "Poko",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302561",
+        "code": "CD",
+        "name": "Democratic Republic of the Congo",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+        "keywords": "DRC"
+    },
+    "region": {
+        "id": "505642",
+        "code": "CD-BU",
+        "local_code": "BU",
+        "name": "Bas-Uélé Province",
+        "continent": "AF",
+        "iso_country": "CD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bas-U%C3%A9l%C3%A9",
+        "keywords": "Airports in Bas-Uélé Province"
+    }
+}

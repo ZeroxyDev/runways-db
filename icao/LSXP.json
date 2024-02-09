@@ -1,0 +1,38 @@
+{
+    "id": "43113",
+    "ident": "LSXP",
+    "type": "heliport",
+    "name": "Pfaffnau Heliport",
+    "latitude_deg": "47.235216",
+    "longitude_deg": "7.910015",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-LU",
+    "municipality": "Pfaffnau",
+    "scheduled_service": "no",
+    "gps_code": "LSXP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.swisshelicopter.ch/de/ueber-uns/standorte/pfaffnau",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303363",
+        "code": "CH-LU",
+        "local_code": "LU",
+        "name": "Lucerne",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canton_of_Lucerne",
+        "keywords": "Luzern"
+    }
+}

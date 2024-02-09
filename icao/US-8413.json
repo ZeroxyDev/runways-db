@@ -1,0 +1,62 @@
+{
+    "id": "520215",
+    "ident": "US-8413",
+    "type": "small_airport",
+    "name": "Colby Airport",
+    "latitude_deg": "37.991944",
+    "longitude_deg": "-84.254028",
+    "elevation_ft": "1000",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Winchester",
+    "scheduled_service": "no",
+    "gps_code": "99KY",
+    "iata_code": "",
+    "local_code": "99KY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "520216",
+            "airport_ref": "520215",
+            "airport_ident": "US-8413",
+            "length_ft": "844",
+            "width_ft": "68",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "3",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306093",
+        "code": "US-KY",
+        "local_code": "KY",
+        "name": "Kentucky",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
+        "keywords": "Airports in Kentucky"
+    }
+}

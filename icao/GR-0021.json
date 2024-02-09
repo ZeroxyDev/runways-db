@@ -1,0 +1,38 @@
+{
+    "id": "328022",
+    "ident": "GR-0021",
+    "type": "small_airport",
+    "name": "Silata Airfield",
+    "latitude_deg": "40.331426",
+    "longitude_deg": "23.150311",
+    "elevation_ft": "361",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-B",
+    "municipality": "Nea Silata",
+    "scheduled_service": "no",
+    "gps_code": "LGNA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Αεροδρόμιο Ελαιοχωριών, Eleochori",
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "430179",
+        "code": "GR-B",
+        "local_code": "B",
+        "name": "Central Macedonia",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Macedonia",
+        "keywords": "Κεντρική Μακεδονία"
+    }
+}

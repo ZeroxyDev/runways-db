@@ -1,0 +1,62 @@
+{
+    "id": "308514",
+    "ident": "UNLW",
+    "type": "small_airport",
+    "name": "Novy Vasyugan Airport",
+    "latitude_deg": "58.586",
+    "longitude_deg": "76.504",
+    "elevation_ft": "246",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-TOM",
+    "municipality": "Novy Vasyugan",
+    "scheduled_service": "no",
+    "gps_code": "UNLW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "507738",
+            "airport_ref": "308514",
+            "airport_ident": "UNLW",
+            "length_ft": "2133",
+            "width_ft": "72",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305331",
+        "code": "RU-TOM",
+        "local_code": "TOM",
+        "name": "Tomsk Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tomsk_Oblast",
+        "keywords": "Airports in Tomsk Oblast"
+    }
+}

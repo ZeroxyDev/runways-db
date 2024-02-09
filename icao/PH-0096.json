@@ -1,0 +1,72 @@
+{
+    "id": "326000",
+    "ident": "PH-0096",
+    "type": "small_airport",
+    "name": "Hermana Mayor Island Airstrip",
+    "latitude_deg": "15.781981",
+    "longitude_deg": "119.793205",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-ZMB",
+    "municipality": "Santa Cruz",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines",
+    "keywords": "Hermana Mayor",
+    "runways": [
+        {
+            "id": "512808",
+            "airport_ref": "326000",
+            "airport_ident": "PH-0096",
+            "length_ft": "3400",
+            "width_ft": "200",
+            "surface": "unpaved",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "15.784445",
+            "le_longitude_deg": "119.78861111",
+            "le_elevation_ft": "30",
+            "le_heading_degT": "125",
+            "le_displaced_threshold_ft": "30",
+            "he_ident": "30",
+            "he_latitude_deg": "15.779445",
+            "he_longitude_deg": "119.796945",
+            "he_elevation_ft": "30",
+            "he_heading_degT": "305",
+            "he_displaced_threshold_ft": "30"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "512806",
+            "airport_ref": "326000",
+            "airport_ident": "PH-0096",
+            "type": "CTAF",
+            "description": "Hermana Mayor Traffic",
+            "frequency_mhz": "121.9"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305133",
+        "code": "PH-ZMB",
+        "local_code": "ZMB",
+        "name": "Zambales Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zambales_Province",
+        "keywords": "Airports in Zambales Province"
+    }
+}

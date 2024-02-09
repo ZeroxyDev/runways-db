@@ -1,0 +1,38 @@
+{
+    "id": "320176",
+    "ident": "IT-0415",
+    "type": "small_airport",
+    "name": "Valeggio sul Mincio Airfield",
+    "latitude_deg": "45.317432",
+    "longitude_deg": "10.708423",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-34",
+    "municipality": "Valeggio sul Mincio (VR)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "VRVAL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Campo di Volo Scaligero, Campo Volo di Valeggio Sul Mincio, Scaligero",
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306354",
+        "code": "IT-34",
+        "local_code": "34",
+        "name": "Veneto",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Veneto",
+        "keywords": "VN"
+    }
+}

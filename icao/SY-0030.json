@@ -1,0 +1,38 @@
+{
+    "id": "520539",
+    "ident": "SY-0030",
+    "type": "heliport",
+    "name": "al-Hasakah",
+    "latitude_deg": "36.590992",
+    "longitude_deg": "40.587208",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "SY",
+    "iso_region": "SY-HA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302662",
+        "code": "SY",
+        "name": "Syria",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Syria",
+        "keywords": "مطارات سوريا"
+    },
+    "region": {
+        "id": "305669",
+        "code": "SY-HA",
+        "local_code": "HA",
+        "name": "Al-Hasakah Governorate",
+        "continent": "AS",
+        "iso_country": "SY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Al-Hasakah_Governorate",
+        "keywords": "Airports in Al-Hasakah Governorate"
+    }
+}

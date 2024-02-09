@@ -1,0 +1,38 @@
+{
+    "id": "325353",
+    "ident": "AL-0002",
+    "type": "closed",
+    "name": "Korroticës së Ulët Airport",
+    "latitude_deg": "42.605253",
+    "longitude_deg": "20.910351",
+    "elevation_ft": "1962",
+    "continent": "EU",
+    "iso_country": "XK",
+    "iso_region": "XK-01",
+    "municipality": "Korroticë e Poshtme",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Korroticës së Ulët, Lower Korotica",
+    "country": {
+        "id": "302720",
+        "code": "XK",
+        "name": "Kosovo",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kosovo",
+        "keywords": "Kosova"
+    },
+    "region": {
+        "id": "317196",
+        "code": "XK-01",
+        "local_code": "01",
+        "name": "Pristina District",
+        "continent": "EU",
+        "iso_country": "XK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/District_of_Pristina",
+        "keywords": "Rajoni i Prishtinës"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "id": "32548",
+    "ident": "USHU",
+    "type": "medium_airport",
+    "name": "Uray Airport",
+    "latitude_deg": "60.103298",
+    "longitude_deg": "64.826698",
+    "elevation_ft": "190",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-KHM",
+    "municipality": "Uray",
+    "scheduled_service": "yes",
+    "gps_code": "USHU",
+    "iata_code": "URJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Uray_Airport",
+    "keywords": "Urai",
+    "runways": [
+        {
+            "id": "507609",
+            "airport_ref": "32548",
+            "airport_ident": "USHU",
+            "length_ft": "7218",
+            "width_ft": "138",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305289",
+        "code": "RU-KHM",
+        "local_code": "KHM",
+        "name": "Khanty-Mansi Autonomous Okrug",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Khanty-Mansi_Autonomous_Okrug",
+        "keywords": "Airports in Khanty-Mansi Autonomous Okrug"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "430646",
+    "ident": "ES-0330",
+    "type": "heliport",
+    "name": "Punta de l'Avançada Heliport",
+    "latitude_deg": "39.905053",
+    "longitude_deg": "3.109839",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-IB",
+    "municipality": "Pollença",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303755",
+        "code": "ES-IB",
+        "local_code": "IB",
+        "name": "Islas Baleares",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Balearic_Islands",
+        "keywords": "Airports in Baleares, Balearic Islands"
+    }
+}

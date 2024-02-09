@@ -1,0 +1,62 @@
+{
+    "id": "45175",
+    "ident": "RU-0282",
+    "type": "medium_airport",
+    "name": "Millerovo Air Base",
+    "latitude_deg": "48.955177",
+    "longitude_deg": "40.296356",
+    "elevation_ft": "499",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-ROS",
+    "municipality": "Millerovo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "XRRI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэродром Миллерово, ЬРРИ",
+    "runways": [
+        {
+            "id": "507513",
+            "airport_ref": "45175",
+            "airport_ident": "RU-0282",
+            "length_ft": "9842",
+            "width_ft": "157",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305318",
+        "code": "RU-ROS",
+        "local_code": "ROS",
+        "name": "Rostov Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rostov_Oblast",
+        "keywords": "Airports in Rostov Oblast"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "518726",
+    "ident": "BR-1872",
+    "type": "small_airport",
+    "name": "Agropecuária Cachoeira Airport",
+    "latitude_deg": "-20.051574",
+    "longitude_deg": "-54.256768",
+    "elevation_ft": "1804",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Jaraguari",
+    "scheduled_service": "no",
+    "gps_code": "SIEC",
+    "iata_code": "",
+    "local_code": "MS0073",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303210",
+        "code": "BR-MS",
+        "local_code": "MS",
+        "name": "Mato Grosso do Sul",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul",
+        "keywords": "Airports in Mato Grosso do Sul"
+    }
+}

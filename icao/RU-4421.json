@@ -1,0 +1,62 @@
+{
+    "id": "34972",
+    "ident": "RU-4421",
+    "type": "medium_airport",
+    "name": "Danilovo Air Base",
+    "latitude_deg": "56.66",
+    "longitude_deg": "48.033298",
+    "elevation_ft": "384",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-ME",
+    "municipality": "Yoshkar Ola",
+    "scheduled_service": "no",
+    "gps_code": "XWKD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Danilovo",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "507488",
+            "airport_ref": "34972",
+            "airport_ident": "RU-4421",
+            "length_ft": "7710",
+            "width_ft": "131",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305302",
+        "code": "RU-ME",
+        "local_code": "ME",
+        "name": "Mari El Republic",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mari_El_Republic",
+        "keywords": "Airports in Mari El Republic"
+    }
+}

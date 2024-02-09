@@ -1,0 +1,38 @@
+{
+    "id": "351304",
+    "ident": "KZ-0133",
+    "type": "small_airport",
+    "name": "Dzhaksy Dzhartasskiy Airport",
+    "latitude_deg": "47.32725",
+    "longitude_deg": "80.52767",
+    "elevation_ft": "1732",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-ABA",
+    "municipality": "Dzhaksy Dzhartasskiy",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302645",
+        "code": "KZ",
+        "name": "Kazakhstan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kazakhstan",
+        "keywords": "Kazakh"
+    },
+    "region": {
+        "id": "430273",
+        "code": "KZ-ABA",
+        "local_code": "ABA",
+        "name": "Abai Region",
+        "continent": "AS",
+        "iso_country": "KZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Abai_Region",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "id": "311045",
+    "ident": "DE-0114",
+    "type": "small_airport",
+    "name": "Farrenberg Gliderport",
+    "latitude_deg": "48.385706",
+    "longitude_deg": "9.076333",
+    "elevation_ft": "2641",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Mössingen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "513536",
+            "airport_ref": "311045",
+            "airport_ident": "DE-0114",
+            "length_ft": "2450",
+            "width_ft": "115",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "48.386213",
+            "le_longitude_deg": "9.071324",
+            "le_elevation_ft": "2690",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "520",
+            "he_ident": "28",
+            "he_latitude_deg": "48.384819",
+            "he_longitude_deg": "9.081226",
+            "he_elevation_ft": "2625",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "574"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "513538",
+            "airport_ref": "311045",
+            "airport_ident": "DE-0114",
+            "type": "RADIO",
+            "description": "Farrenberg",
+            "frequency_mhz": "130.185"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303549",
+        "code": "DE-BW",
+        "local_code": "BW",
+        "name": "Baden-Württemberg",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
+        "keywords": "Baden-Wuerttemberg"
+    }
+}

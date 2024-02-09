@@ -1,0 +1,38 @@
+{
+    "id": "31370",
+    "ident": "FZFC",
+    "type": "small_airport",
+    "name": "Engengele Airport",
+    "latitude_deg": "2.116575",
+    "longitude_deg": "22.647328",
+    "elevation_ft": "1279",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-MO",
+    "municipality": "Engengele",
+    "scheduled_service": "no",
+    "gps_code": "FZFC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302561",
+        "code": "CD",
+        "name": "Democratic Republic of the Congo",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+        "keywords": "DRC"
+    },
+    "region": {
+        "id": "505648",
+        "code": "CD-MO",
+        "local_code": "MO",
+        "name": "Mongala Province",
+        "continent": "AF",
+        "iso_country": "CD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mongala",
+        "keywords": "Airports in Mongala Province"
+    }
+}
