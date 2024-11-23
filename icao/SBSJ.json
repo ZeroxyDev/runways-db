@@ -92,51 +92,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
         "keywords": "Airports in São Paulo"
-    },
-    "navaids": [
-        {
-            "id": "93646",
-            "filename": "Sao_Jose_VOR-DME_BR",
-            "ident": "SJC",
-            "name": "Sao Jose",
-            "type": "VOR-DME",
-            "frequency_khz": "112800",
-            "latitude_deg": "-23.246299743652344",
-            "longitude_deg": "-45.85419845581055",
-            "elevation_ft": "2120",
-            "iso_country": "BR",
-            "dme_frequency_khz": "112800",
-            "dme_channel": "075X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-20.204",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBSJ"
-        },
-        {
-            "id": "93648",
-            "filename": "Sao_Jose_NDB_BR",
-            "ident": "SJC",
-            "name": "Sao Jose",
-            "type": "NDB",
-            "frequency_khz": "230",
-            "latitude_deg": "-23.24970054626465",
-            "longitude_deg": "-45.86389923095703",
-            "elevation_ft": "",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-20.203",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "SBSJ"
-        }
-    ]
+    }
 }
