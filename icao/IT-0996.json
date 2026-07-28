@@ -1,0 +1,39 @@
+{
+    "id": "610023",
+    "ident": "IT-0996",
+    "type": "heliport",
+    "name": "Millesimo Heliport",
+    "latitude_deg": "44.3758",
+    "longitude_deg": "8.198716",
+    "elevation_ft": "1392",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-42",
+    "municipality": "Millesimo (SV)",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306364",
+        "code": "IT-42",
+        "local_code": "42",
+        "name": "Liguria",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Liguria",
+        "keywords": "LG"
+    }
+}
