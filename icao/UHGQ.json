@@ -1,0 +1,39 @@
+{
+    "id": "610074",
+    "ident": "UHGQ",
+    "type": "heliport",
+    "name": "Pionernaya Heliport",
+    "latitude_deg": "59.60107",
+    "longitude_deg": "150.76815",
+    "elevation_ft": "670",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-MAG",
+    "municipality": "Pionernaya",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "UHGQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "УХГЯ, Пионерный",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305301",
+        "code": "RU-MAG",
+        "local_code": "MAG",
+        "name": "Magadan Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Magadan_Oblast",
+        "keywords": "Airports in Magadan Oblast"
+    }
+}
