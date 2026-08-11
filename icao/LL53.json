@@ -1,7 +1,7 @@
 {
     "id": "21605",
     "ident": "LL53",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Olson Airport",
     "latitude_deg": "42.008617",
     "longitude_deg": "-88.457773",
@@ -13,11 +13,11 @@
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
-    "gps_code": "LL53",
-    "local_code": "LL53",
+    "gps_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "LL53",
     "runways": [
         {
             "id": "254965",
