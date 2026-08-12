@@ -1,10 +1,10 @@
 {
     "id": "44933",
     "ident": "TR-0037",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Muş West Airport",
-    "latitude_deg": "38.7861877312",
-    "longitude_deg": "41.4696979523",
+    "latitude_deg": "38.786188",
+    "longitude_deg": "41.469698",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "TR",
