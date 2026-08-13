@@ -1,7 +1,7 @@
 {
     "id": "25153",
     "ident": "TX37",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Flying S Ranch Airport",
     "latitude_deg": "33.131802",
     "longitude_deg": "-97.7686",
@@ -13,11 +13,11 @@
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
-    "gps_code": "TX37",
-    "local_code": "TX37",
+    "gps_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "TX37",
     "runways": [
         {
             "id": "252606",
